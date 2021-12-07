@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Oyster Docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://eager-yalow-bd2e8a.netlify.app',
   baseUrl: '/',
