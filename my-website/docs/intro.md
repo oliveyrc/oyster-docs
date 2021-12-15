@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
@@ -34,4 +34,6 @@ Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
 
-Hi Mum
+
+## Why ##
+Because why not and we thought it would be nice to try something out other than Drupal for once, and share our workflow/ideas/setup.
