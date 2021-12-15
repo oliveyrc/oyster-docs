@@ -3,37 +3,9 @@ sidebar_position: 1
 ---
 
 # Introduction
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
-
+Oyster Marketing and Design Developer Documentation. This started life off as Google docs and then onto Bitbucket wiki pages but, these always lacked something. Discovered Docusaurus while integrating with a 3rd party API along with a couple of other agencies doing the same thing so here we are.
 
 ## Why ##
-Because why not and we thought it would be nice to try something out other than Drupal for once, and share our workflow/ideas/setup.
+Because why not and we thought it would be nice to try something out other than Drupal for once, and share our workflow/ideas/setup. This documentation is build using [https://docusaurus.io/](https://docusaurus.io/), source hosted on [https://github.com](https://github.com) and deployed to [https://www.netlify.com/](https://www.netlify.com/) 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/788cda27-bf92-483c-b4ea-274986196c34/deploy-status)](https://app.netlify.com/sites/oyster-docs/deploys)
