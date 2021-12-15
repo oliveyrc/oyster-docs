@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'oliveyrc', // Usually your GitHub org/user name.
   projectName: 'oyster-docs', // Usually your repo name.
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -24,7 +23,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateAuthor: true,
-          // Equivalent to `enableUpdateTime`.
           showLastUpdateTime: true,
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
@@ -35,7 +33,10 @@ const config = {
       }),
     ],
   ],
-
+  i18n: {
+    defaultLocale: 'en-GB',
+    locales: ['en-GB']
+  },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
